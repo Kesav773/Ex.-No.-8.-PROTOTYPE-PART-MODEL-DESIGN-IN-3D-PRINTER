@@ -52,4 +52,3 @@
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
-](https://github.com/Kesav773/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/blob/main/README.md)
